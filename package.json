@@ -1,0 +1,25 @@
+{
+  "name": "danielactivity",
+  "version": "1.0.0",
+  "description": "Daniel the wonderful TA has created an activity that utilizes all the stuff we've learned so far.  Here is what I've got.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayywan/daniel-activity.git"
+  },
+  "author": "Keith Wan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayywan/daniel-activity/issues"
+  },
+  "homepage": "https://github.com/kayywan/daniel-activity#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "morgan": "^1.10.0"
+  }
+}
